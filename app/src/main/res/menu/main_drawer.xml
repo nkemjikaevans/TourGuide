@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_to"
+            android:title="@string/about_nigeria" />
+        <item
+            android:id="@+id/nav_architecture"
+            android:title="@string/architecture_category" />
+        <item
+            android:id="@+id/nav_restaurant"
+            android:title="@string/restaurant_category" />
+        <item
+            android:id="@+id/nav_shopping"
+            android:title="@string/shopping_category" />
+        <item
+            android:id="@+id/nav_nightlife"
+            android:title="@string/nightlife_category" />
+    </group>
+</menu>

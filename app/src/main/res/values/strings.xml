@@ -1,0 +1,363 @@
+<resources>
+    <string name="app_name">Tour Guide</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="about_nigeria">NG</string>
+    <string name="architecture_category">Architecture</string>
+    <string name="restaurant_category">Restaurants</string>
+    <string name="shopping_category">Shopping</string>
+    <string name="nightlife_category">Nightlife</string>
+    <string name="address_title">Address</string>
+    <string name="contact_title">Contact</string>
+    <string name="take_me_text">take me</string>
+    <string name="hello_text">Hello!</string>
+
+    <string name="blucubana">Blu Cabana Restaurant Cafe treats their clientele to a warm, comfortable
+        and cozy atmosphere to enjoy delicious international dishes. Their menu contains different types
+        of mouth watering dishes that can be enjoyed during your business or casual lunch, dinner or a
+        late night weekend.\n\nBlu Cabana Restaurant and Cafe is located in the quiet and high class area
+        of Mabushi district, Abuja. Their chefs prepare the meals with skills and experience making sure
+        every bite is delightful. The restaurant has a swimming pool, gym, lounge and an indoor and outdoor
+        playroom for kids. BluCabana is an unforgettable experience for you to enjoy when in Abuja.</string>
+
+    <string name="bungalow_restaurant">Since 2004, Bungalow Restaurant has been bringing the best of
+        global gastronomy to Lagos, from pizzas to burgers to crepes and fajitas. There is also live
+        jazz music every Thursday, which contributes to the restaurant’s lively atmosphere. The restaurant
+        has a modern twist too, as food is ordered from iPads located at the table.</string>
+
+    <string name="eko_sky_restaurant"> A great way to take a break from the busy streets of Lagos is the
+        Sky Restaurant and Lounge at the Eko Hotel, the highest restaurant in the city. With unbeatable
+        views of the city and the Atlantic Ocean, the Sky Restaurant and Lounge takes diners on a round-the-world
+        tour, with Nigerian, Asian, European and North American food available. The cuisine is complemented
+        by a delectable wine and cocktail range. This, combined with the restaurant’s tranquil atmosphere,
+        means the Sky Restaurant and Lounge should be at the top of any visitor\’s list..</string>
+
+    <string name="kokodome">This was established in 1989.\n\nCentralised in the heart of Ibadan\’s business
+        district centre, Koko Dome is a household name that has retained its unique spot as a premier entertainment
+        centre over the decades.\n\noffers a wide range of Lebanese dishes on the menu, Koko Dome is a
+        suitable centre that aims to bring fun and entertainment to Ibadan residents.</string>
+
+    <string name="cafe_chrysalis">The Cafe Chrysalis is a restaurant located at 23, Ilaro Street, Off Alabiyamo
+        Street Ibadan city. It has a nice serene environment suitable for private and romantic getaways as
+        well as for business meetings. Its friendly and efficient staff and great food just makes it all
+        the most an interesting place to be.\n\nIts cool and serene environment gives it a private feeling
+        perfect for a quiet and relaxed getaway, also its great meals makes it all the more good.</string>
+
+    <string name="metisse">Métisse brings a fusion of Asian flavors to Lagos as the first and only pan-Asian
+        restaurant in the city. It is situated on the second floor of the AIM Plaza, between its sibling
+        restaurants Café Royal and Chocolat Royal. With its sea-themed décor and exotic food and cocktail
+        menu, Métisse achieves its aim of blending the tastes of Asia with the seascapes of Lagos.
+        Chilli prawn and Mongolian beef are menu highlights and there is often live music to accompany them.</string>
+
+    <string name="yellow_chilli"> From the name: “Yellow Chilli”, you might be thinking; a yellow building
+        with a menu of yellow dishes spiced up with “Chilli” … Well, I’m happy to disappoint you! Yellow
+        chilli is a renowned restaurant in Lagos, known for its high quality and delicious Nigerian and
+        African dishes. No good thing comes easy, and this is the reason they have a waiting time of close
+        to 45 minutes because the food is cooked fresh as ordered! Now that\’s something! Strategically
+        located for easy access and having a pleasant atmosphere with good lighting and spacious seating,
+        Yellow Chilli is definitely the African romance spot!.\n\nYellow Chilli is an upscale restaurant
+        and bar located in the business area of Victoria Island. Boasting of a vast menu of African/Nigerian
+        dishes, a cocktail/wine bar and skilled chefs, Yellow Chilli is the perfect home away from home.
+        It\’s spacious and cosy complex is suitable for hanging out with family or friends..</string>
+
+    <string name="villa_medici">Celebrating Lagos European culinary influences is Villa Medici. This
+        restaurant has been developing its reputation and status in Lagos for the last 15 years and,
+        as a result, has become a favorite among locals. The menu has a French influence, with frogs
+        legs and escargots a la bourguignonne among the highlights of les hors d’oeurve. These continental
+        dishes are perfectly accompanied by an extensive drinks menu of wines and cocktails. There are
+        also al fresco and private dining options for a memorable Lagos dining experience.</string>
+
+    <string name="cilantro">Whenever you think of the best places to have a taste of Asian cuisines,
+        Cilantro Restaurant is not just a good place to be, but the perfect place to go.\n\nCilantro
+        Restaurant is a quite popular restaurant due to the high-class services rendered to her customers
+        in its beautiful environment.</string>
+
+    <string name="tinapa">DescriptionTinapa is a business and leisure resort located North of Calabar
+        municipality, Cross River State, Nigeria associated with the Calabar Free Trade Zone. It was
+        developed in four phases under a Private Public Partnership promoted by the Government of Cross
+        River State.</string>
+
+    <string name="club_57">Club 57 formerly known as Bacchus Club is one of the best clubs in Lagos.
+        It is an exclusive 3 floor nightclub with grand lounges, great music and a restaurant that
+        serves exquisite continental meals and cocktails. The club boasts of a terrace for outdoor
+        events, it is open three times weekly, on Thursday, Friday and Saturday nights. Have an amazing
+        time at Club 57, network and enjoy access to endless supply of the best drinks in a chic ambiance.</string>
+
+    <string name="rumors">Rumors Night Club Ikeja is one of the most popular nightlife spots in Ikeja.
+        It is owned by a popular celebrity and serves a perfect spot for mingling with Lagos socialites.
+        Are you looking to enjoy a memorable night or seeking adventure? Rumors is located in a serene
+        and safe location. Enjoy great music by some of the best djs around, meet amazing people and
+        enjoy an endless supply of alcoholic beverages. Rumors Night Club is open every Wednesdays,
+        Fridays, Saturdays and Sundays from 11pm until dawn.</string>
+
+    <string name="cubana">Cubana is renowned on the Lagos nightlife scene for luxury lifestyle. It is
+        world class facility with architectural masterpieces, valet parking and an exquisite bar and
+        lounge. The night club at Cubana is known as Club Pablo.\n\nCubana is a huge property which
+        boasts of a rooftop lounge with a sky view, it has a restaurant and bar with world class chefs
+        and bartenders. There is also an open bar called Cuban Hut ‘n’ Grill where customers are offered
+        premium service in a traditional bush bar setting.
+</string>
+
+    <string name="quilox">One of the biggest nightclubs in Lagos, Quilox is a VIP night club located
+        in Victoria Island Lagos. It is a place frequented by several prominent people in Lagos. A
+        luxurious spot with unparalled facilities needed to have maximum fun an enjoyment. With stylish
+        interior and professional staffs, Club Quilox comes alive every night with great music and company.
+        Monday to Wednesday nights at Quilox are themed ‘Night Shift’, Thursday nights is for “Workman\’s
+        Compensation”, Friday Nights for ‘Starry Nights, Saturday Nights for “Thriller Nights” and
+        Sunday Nights for “Sunday Nitro”. The last sunday of every month, the dj at the club plays
+        from 2pm until dawn. Club Quilox appeals to the high class and business class people in Lagos.
+        There are VIP and the sound proof VVIP lounges are great for private parties with your friends
+        or colleagues.
+</string>
+
+    <string name="escape">Visit Escape nightclub and enjoy nightlife at the grand property. Escape
+        nightclub is a favourite amongst fun lovers. Several celebrities are often spotted at the club,
+        it is an ideal place for networking and unwinding with friends after a busy week.\n\nHave a
+        memorable weekend, hit the dance floor at the sound of some of the latest music, grab a drink
+        and make amazing new friends.</string>
+
+    <string name="nitro">Partying in class has a nice ring to it and although a lot of clubs claim to
+        offer such, few are of the same level as Nitro.\n\nNitro is a premium upscale night club serving
+        a glamorous night every night, with the best champagnes, spirits, cognac and cocktails,
+        world-class music, the finest people and the best service in nightlife that Lagos has to offer.
+    </string>
+
+    <string name="virus">Club Virus was established in 2015.\n\nOne of the best clubs to party, mingle
+        and enjoy drinks, Club Virus has surely and steadily grown to become one of the biggest clubs
+        in Lagos. Attracting night crawlers all the way from the Mainland, its front gates are always
+        packed with clubbers vying to get in during the weekends.\n\nPartying has never been this fun
+        since the 80s.</string>
+
+    <string name="vapours">Previously named Likwid Lounge, Vapors is one of the most visited clubs in
+        Victoria Island.\n\nThe 3,000 square foot venture is equipped with fitting sound and lighting
+        systems as where exclusive clientele can dance beneath the finest luminous lights, lounge at
+        VIP tables while enjoying stunning visual imagery and wonderful staff services.</string>
+
+    <string name="cbn_headquarters"> Central Bank of Nigeria Abuja is the head office of Nigeria\'s banking
+        industry, thus the structure is built to deliver a standard of superiority to other beautiful
+        buildings in the country especially for financial institutions. Situated in the central business
+        area of Abuja, it offers world-class facilities and vast parking lots with powerful security
+        infrastructures.
+    </string>
+
+    <string name="lagos_city_hall">Constructed in 1900, this structure is not only the most beautiful in
+        the country but also one of te oldest. The historic and cultural landmark has been remodelled
+        in recent times, so it remains a paramount event centre and tourist attraction.
+    </string>
+
+    <string name="Akwa_Ibom_stadium">In sports, this is one of the most beautiful buildings in Nigeria
+        This stadium located in Uyo is another magnificent structure in Akwa-Ibom and Nigeria.
+        The 30,000-seater sports complex features collapsible seats, digital playback screens,
+        30 emergency exits, digital floodlights, two digital scoreboards. it also gives some form of
+        security as it has bulletproof VIP and VVIP sections. It was built in 2014 and can be used for
+        different purposes other than sports.
+    </string>
+
+    <string name="ministry_of_defence"> This large impossible building is designed to suit its status
+        as a place that houses Nigerian Military power. located in Abuja, the building which is the
+        headquarters of Nigerian Defence Army is architecturally huge and draws attention from all
+    corners. It has a ship-like shape thus called a ship House.</string>
+
+
+    <string name="civic_center">This ultra-modern complex is located on Victoria Island. The architectural
+    sensation with the beautiful natural landscape is that kind of building that will impress anybody\'s
+    imagination of a perfect event centre.</string>
+
+    <string name="National_Theatre">The National Arts Theatre is the primary centre for the performing arts in Nigeria.
+        The monument is located in Iganmu, Surulere, Lagos. Its construction was completed in 1976 in preparation for
+        the Festival of Arts and Culture in 1977.
+
+        \n\nThe National Arts Theatre was built during the military regime of Olusegun Obasanjo. Its exterior is shaped like
+        a military hat. It has a 5,000-seater Main Hall with a collapsible stage, and two capacity cinema halls.
+
+        \n\nIn 2010, President Olusegun Obasanjo announced plans to privatise the National Arts Theatre. This sparked controversy
+        amongst Nigerian entertainers and playwrights like Wole Soyinka.
+    </string>
+
+    <string name="central_bank_lagos"> Located in the Island, a central business district in lagos,
+        the building measures 100 m(330ft) with a total gross area of 99.50m^2. The L-shaped structure
+        has 19floors of which 6 are used are car parks and 13 as office space. The building also has
+        a central atrium with four office wings a wide 500-seater auditorium, a service block with 5
+        generators and other ancillary buildings. It was completed in 2013 by Messer Julius Berger.</string>
+
+    <string name="overview_text">Nigeria, officially the Federal Republic of Nigeria, is a sovereign
+        country located in West Africa bordering Niger in the north, Chad in the northeast, Cameroon
+        in the east, and Benin in the west. Its southern coast is on the Gulf of Guinea in the
+        Atlantic Ocean. A federal republic comprising 36 states and the Federal Capital Territory,
+        where the capital, Abuja, is located.\n\nNigeria is widely known for its petroleum production and exportation as a major source of the nation\'s economy accounting for about 95% of foreign exchange
+        income and 70% of government revenue.\n\nNigeria is the most populous country in Africa and the seventh most populous country in the world, with an estimated 206 million inhabitants as of late 2019.
+        Nigeria has the third-largest youth population in the world, after India and China, with more than 90 million of its population under the age of eighteen.
+        Nigeria has the largest economy in Africa and is the world\'s 24th largest economy according to the list by the IMF (2020 estimates), worth more than $500 billion
+        and $1 trillion in terms of nominal GDP and purchasing power parity, respectively.\n\nNigeria is often referred to as the "Giant of Africa", owing to its large population and economy, it is also considered to be an emerging market by the World Bank,
+        it has been identified as a regional power on the African continent, a middle power in international affairs, and has also been identified as an emerging global power.
+        However, its Human Development Index ranks 158th in the world. Nigeria is a member of the MINT group of countries, which are widely seen as the globe\'s next "BRIC-like" economies.
+        It is also listed among the "Next Eleven" economies set to become among the biggest in the world. Nigeria is a founding member of the African Union and a member of many other
+        international organizations, including the United Nations, the Commonwealth of Nations, the ECOWAS, and OPEC.</string>
+
+    <string name="four_point">Four points building by sheraton is located on the outside limit of the
+    stunning Victoria Island, Nigerian Economy capital. It is mainly dedicated to pleasure-seekers with
+    international companies, a movie theatre, beach and a shopping mall surrounding it.</string>
+
+    <string name="nnpc_towers">The structure is a 15-floor skyscraper that towers at 75 meters(246ft).
+    located on Hebert Macauley Way, Central Business District Abuja, it was built in 1996. The building
+     serves as the big oil company\'s headquarters hence offers four identical towers.</string>
+
+    <string name="icm">The Ikeja City Mall is a mall located at Alausa in Ikeja, Lagos State. It is
+        the first of its kind on the Mainland of Metropolitan Lagos. There is a Silverbird cinema in
+        the mall as well shoprite, eateries, clothing brands and clothing stores and different bank
+        ATMs.\n\nThe shopping center has a 5-screen Silverbird Cinemas (the first and only cinema theatre in Ikeja)
+        and a Shoprite Supermarket. It also includes specialist facilities for department stores, banks,
+        cafés, bars, restaurants, hairdressing / beauty salon, ice-skating arena, etc.</string>
+
+    <string name="jabi">Jabi Lake Mall is an Abuja landmark on the Lake side of Jabi and renowned for
+        its vast selection of over 120 stores. Beyond shopping, the elegant mall also houses a number
+        of restaurants and entertainment options, including a Cinema. Explore our directory for a complete
+        list of stores, dining choices and more unique offerings.</string>
+
+    <string name="dunes">This is a magnificently designed luxurious shopping mall and one of the landmarks
+        adorning the high brow city of Abuja.\n\nCarefully chosen to define luxury, Dunes Center is
+        one of the most well reputed shopping malls in Nigeria. It incorporates everything from original
+        antiques and gift shops to quality boutiques, as well as a supermarket, pastry shop and
+        restaurant.\n\nIt also hosts luxury apartments, a cafe named Dunes Express Cafe, rental halls
+        for social and business events, and a restaurant named Dunes Continental Restaurant that emerged
+        as Leadership Newspaper\’s ‘Overall Best Restaurant of the Year’ in 2008 and as the
+        "Best Continental Restaurant 2009".
+    </string>
+
+    <string name="mega_plaza">Stock up on household items, electronics, technology, and apparel at
+        Mega Plaza Century 21 Mall. Offering luxury brands, the mall has a diverse selection of both
+        international and domestic products. Have your purchased goods delivered to a desired address
+        within Lagos for free, or outside Lagos at a small cost. Break for snacks at the food court,
+        where you can try cuisines from around the world, including Indian, Italian, Lebanese, and
+        Chinese. The polite and professional staff of the mall will happily answer questions or
+        provide assistance.
+    </string>
+
+    <string name="maryland">The Maryland Mall, popularly called the ‘Big Black Box’ due to its outer
+        covering, is a mall which is poised to give you a wholesome shopping experience of international
+        standard. This mall houses over 40 shops, 4 cinema screens, bars, restaurants, a food court
+        as well as a wide parking space. Its strategic location, interior ambience, and exterior outlook
+        are sure to give you a relaxing feel as well as amaze when you visit this Mall. This Mall which
+        sits over a land mass of 7,700sqm is the first mall in Nigeria to have an underground park, and
+        its location also witnesses a traffic flow of not less than 5000 cars hourly.\n\nOne striking
+        thing about this mall is that it is not too expensive to shop at this mall and it offers you
+        a plethora of options when it comes to restaurants. Another highlight of the Maryland Mall is
+        the fact that the interior of the Mall looks the same both at Day and at Night, as the internal
+        lighting is supplied artificially. In other words, the black cloth covering the Mall limits natural
+        light from coming in. Also, its 60-metre long screen sets it apart from any other retail outlet
+        in Nigeria. The Maryland Mall can easily pass off as a centre of excellence. The parking fee
+        at this mall costs N200.</string>
+
+    <string name="lennox">The LENNOX mall is a world class state-of-the-art facility which features
+        luxurious retail shop spaces, elegant food court and restaurant, serene relaxation spot and
+        nightlife entertainment area and so much more. This premium shopping and lifestyle destination
+        occupies approximately 5,000 sqm of retail space on multiple floors.\n\nThe LENNOX mall offers
+        several advantages to retailers: a “Retail-centric” atmosphere, a range of convenient facilities,
+        adequate car park space, ease of access to customers and so much more. Its avant-garde exterior
+        design makes it an architectural attraction to behold, offering a functionality that combines
+        retail and a landmark feature for Lagosians. The essentially H-shaped structure overlooks both
+        Admiralty Way and Layi Yusuf Street, while the rooftop offers unrivalled panoramic scenery of Lekki,
+        Ikoyi, Cowrie Creek and Victoria Island all combined.</string>
+
+    <string name="sky">The Mall which is divided into two distinguished sections: The main Shopping
+        mall for recreation and the Extension section for offices, has an opulent decor as well as
+        its ranges of shops, office spaces, warehouses, a top-notch restaurant, 2 exclusive VIP lounges
+        and four 3D viewing cinema rooms with available spaces of 216sqm, 93sqm and a leased space of
+        39sqm for the shops. While the office space is from 39sqm and above.</string>
+
+    <string name="ado">Ado Bayero Mall is the first ultra-modern shopping mall in Northern Nigeria located
+        in the heart of Kano city and named after the city’s longest serving Monarch, His Royal Highness
+        Alhaji (Dr). Ado Bayero.\n\nSituated in a neighborhood defined by a well balanced mix of commercial
+        and residential properties, the mall is located near major access roads such as the Zaria –Maiduguri
+        Highways, and is also adjacent to major landmarks such as Kano Trade Fair Complex and the
+        historic Kano Zoo on Zoo road. This high-profile location guarantees easy access and visibility
+        for all tenants and shoppers.\n\nSpread over 10 hectares, Ado Bayero Mall offers 24,000 m²
+        of retail and entertainment space comprised of two major international shopping retailers
+        (Shoprite and Game), the largest and modern indoor multi-screen cinema (Film House Cinemas)
+        and a broad range of other offerings including restaurants, media stores and an indoor play
+        area for young children. Furthermore, the mall offers over fifty (50) customisable shop spaces
+        and ample parking for 1000 automobiles.</string>
+
+    <!-- Architecture name and addresses -->
+    <string name="cbn_title">CBN Headquarters</string>
+    <string name="cbn_headquarters_address">Zaria Street, Garki II, Nigeria - P.M.B. 0187, Garki, Abuja
+</string>
+    <string name="city_hall_title">Lagos City Hall</string>
+    <string name="lagos_hall_address">catholic mission st, lagos, nigeria</string>
+    <string name="stadium_title">Akwa Ibom Stadium</string>
+    <string name="stadium_address">Eket, Uyo, Akwaibom.</string>
+    <string name="national_theater">National Theater</string>
+    <string name="national_theater_address">Iganmu, Lagos</string>
+    <string name="defence_title">Ministry of Defence Quarters</string>
+    <string name="defence_address">Idogwari, Abuja</string>
+    <string name="civic_center_title">The Civic Center</string>
+    <string name="civic_center_address">V.i, Eti-osa, Lagos</string>
+    <string name="four_points_title">Four Point By Sheraton Hotel</string>
+    <string name="four_point_address">lekki, Lagos.</string>
+    <string name="nnpc_title">NNPC Towers</string>
+    <string name="nnpc_address">Federal Capital Terrirory</string>
+    <string name="cbn_lagos_title">Central Bank Of Nigeria, Lagos</string>
+    <string name="cbn_lagos_address">Cross River</string>
+
+
+    <!-- Night clubs name and addresses -->
+    <string name="fifty_seven_title">CLUB 57</string>
+    <string name="fifty_seven_Address">57 Awolowo Road, Ikoyi, Lagos.</string>
+    <string name="quilox_title">CLUB QUILOX</string>
+    <string name="quilox_address">873, Ozumba Mbadiwe Avenue, Victoria Island, Lagos.</string>
+    <string name="escape_title">Escape</string>
+    <string name="escape_address">234B Adeola Odeku Street, Victoria Island, Lagos.</string>
+    <string name="cubana_title">Cubana</string>
+    <string name="cubana_address">1090 Adeola Odeku Street, Victoria Island, Lagos.</string>
+    <string name="rumors_title">Rumors</string>
+    <string name="rumors_address">15A Oduduwa Way, Ikeja, Lagos.</string>
+    <string name="nitro_title">Club Nitro</string>
+    <string name="nitro_address">14 Adeola Hopewell St, Victoria Island, Lagos</string>
+    <string name="virus_title">Club Virus</string>
+    <string name="virus_address">Plot 16, Bisola Durosimi Etti Drive, Lekki Phase 1, Lagos.</string>
+    <string name="vapours_title">Vapours</string>
+    <string name="vapours_address">879, Sir Samuel Manuwa St, Victoria Island, Lekki Peninsula, Nigeria</string>
+
+    <!-- Restaurant names and addresses -->
+    <string name="blucubana_title">Blu Cubana Restaurant Cafe</string>
+    <string name="blucubana_address">"Plot 1322 Shegu Yaradua way Mabushi, Abuja, Nigeria"</string>
+    <string name="bungalow_title">Bungalow Restaurant</string>
+    <string name="bungalow_address">9 Adekunle Fajuyi Way, Ikeja</string>
+    <string name="eko_sky_title">The Sky Restaurant</string>
+    <string name="eko_sky_address">Eko Hotels, Plot 1415 Adetokunbo Ademola Street, Victoria Island</string>
+    <string name="kokodome_title">Kokodome Plus</string>
+    <string name="kokodome_address">Liebu Bypass, Ibadan</string>
+    <string name="chrysalis_title">Café Chrysalis</string>
+    <string name="chrysalis_address">23 Ilaro St, Ibadan</string>
+    <string name="maetisse_title">Métisse Restaurant</string>
+    <string name="metisse_address">Etim Inyang Cres, Victoria Island, Lagos</string>
+    <string name="yellow_chilli_title">Yellow Chilli</string>
+    <string name="yellow_chilli_address">Bishop Oluwole Street, 27 Oju Olobun Cl, Victoria Island, Lagos</string>
+    <string name="villa_medici_title">Villa Medici</string>
+    <string name="villa_medici_address">1 Alhaji, Babatunde Jose St, \nVictoria Island, Lagos</string>
+    <string name="cilantro_title">Cilantro Restaurant and Lounge</string>
+    <string name="cilantro_address">Old No.67, New, No 23 Sultan Rd, Giginyu, Kano</string>
+    <string name="tinapa_title">Tinapa Resort</string>
+    <string name="tinapa_address">Cross River</string>
+
+    <!-- Shopping names and addresses -->
+    <string name="ado_bayero_title">Ado Bayero Mall</string>
+    <string name="ado_bayero_address">"Zoo Rd. Trade Fair Complex, Kano"</string>
+    <string name="icm_title">Ikeja City Mall</string>
+    <string name="icm_address">Obafemi Awolowo Way, Lagos</string>
+    <string name="jabi_title">Jabi Lake Mall</string>
+    <string name="jabi_address"> Bala Sokoto Way, Abuja</string>
+    <string name="dunes_title">Dunes</string>
+    <string name="dunes_address">Maitama, Abuja</string>
+    <string name="mega_plaza_title">Mega Plaza Century 21</string>
+    <string name="mega_plaza_address">14 Idowu St, Lagos</string>
+    <string name="maryland_title">Maryland Mall</string>
+    <string name="maryland_address">Maryland</string>
+    <string name="lennox_title">The Lennox Mall</string>
+    <string name="lennox_address">Lekki Phase 1, Lekki</string>
+    <string name="sky_title">Sky Mall</string>
+    <string name="sky_address">Klm 46, Novojo Estate, Farm Busstop, Lekki Epe Expressway</string>
+
+    <string name="nigeria">Nigeria</string>
+</resources>
